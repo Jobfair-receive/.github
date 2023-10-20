@@ -1,6 +1,8 @@
 ## 😊 나만의 AI 학업 도우미, ACON
 안녕하세요! AI Consultant, ACON을 제작한 **Receive** 팀입니다.
 
+[정지원](github.com/zi-won), [원설아](github.com/seola1ne), [심지혜](github.com/jihye1116), [변은혜](github.com/byuneunhye)로 이루어져 있는 팀이에요.
+
 저희 서비스에서는 이러한 기능을 제공하고 있어요.
 
 <br />
